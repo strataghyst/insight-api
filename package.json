@@ -48,7 +48,7 @@
     "base58-native": "0.1.2",
     "bignum": "*",
     "morgan": "*",
-    "bitcore": "git://github.com/strataghyst/bitcore.git#98daed2fe766f07531f5e5c27cdb3e6fc787b58a",
+    "bitcore": "git://github.com/strataghyst/bitcore.git#ce47342f1678af96806b67083ec02416bbe094e2",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
     "buffertools": "*",
     "commander": "^2.3.0",
