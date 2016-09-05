@@ -23,9 +23,9 @@
     "email": "jungans@gmail.com"
   }],
   "bugs": {
-    "url": "https://github.com/bitpay/insight-api/issues"
+    "url": "https://github.com/strataghyst/insight-api/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/strataghyst/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -48,7 +48,7 @@
     "base58-native": "0.1.2",
     "bignum": "*",
     "morgan": "*",
-    "bitcore": "git://github.com/strataghyst/bitcore.git#ce47342f1678af96806b67083ec02416bbe094e2",
+    "bitcore": "git://github.com/strataghyst/bitcore.git#v0.1",
     "bufferput": "git://github.com/bitpay/node-bufferput.git",
     "buffertools": "*",
     "commander": "^2.3.0",
