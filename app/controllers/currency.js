@@ -44,7 +44,7 @@ exports.index = function(req, res) {
     timestamp = currentTime;
 
     _request('https://bittrex.com/api/v1.1/public/getticker?market=btc-nlg', function(err, data) {
-	if (!err) nlgbtcRate = parseFloat(JSON.parse(data).result.Last).toFixed(8);
+	if (!err) bitstampRate = parseFloat(JSON.parse(data).result.Last).toFixed(8);
 
       res.jsonp({
         status: 200,
