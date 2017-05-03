@@ -1,8 +1,8 @@
 {
-  "name": "insight-api",
+  "name": "insight-gulden-api",
   "description": "A Gulden blockchain REST and web socket API service for Bitcore Gulden Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/strataghyst/insight-api.git",
+  "repository": "git://github.com/strataghyst/insight-gulden-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,15 +38,15 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/strataghyst/insight-api/issues"
+    "url": "https://github.com/strataghyst/insight-gulden-api/issues"
   },
-  "homepage": "https://github.com/strataghyst/insight-api",
+  "homepage": "https://github.com/strataghyst/insight-gulden-api",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "bitcoin api",
+    "Gulden api",
     "blockchain api",
     "json",
     "bitcore"
